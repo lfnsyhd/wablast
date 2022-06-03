@@ -1,0 +1,6 @@
+- Install Node
+- Install Git
+- Clone this repo
+- npm install
+- npm update
+- npm start

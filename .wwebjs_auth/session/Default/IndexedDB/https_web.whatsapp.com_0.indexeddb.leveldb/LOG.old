@@ -1,0 +1,71 @@
+2022/06/03-00:58:07.775 32c0 Reusing MANIFEST C:\js\whatsapp2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/03-00:58:07.776 32c0 Recovering log #171
+2022/06/03-00:58:07.783 32c0 Reusing old log C:\js\whatsapp2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000171.log 
+2022/06/03-00:58:50.572 39c8 Level-0 table #182: started
+2022/06/03-00:58:50.607 39c8 Level-0 table #182: 1113814 bytes OK
+2022/06/03-00:58:50.608 39c8 Delete type=0 #171
+2022/06/03-00:58:50.619 858 Compacting 1@1 + 7@2 files
+2022/06/03-00:58:50.847 858 Generated table #183@1: 28823 keys, 2215498 bytes
+2022/06/03-00:58:50.888 858 Generated table #184@1: 4265 keys, 2158126 bytes
+2022/06/03-00:58:50.942 858 Generated table #185@1: 16520 keys, 2175396 bytes
+2022/06/03-00:58:51.025 858 Generated table #186@1: 32989 keys, 2238330 bytes
+2022/06/03-00:58:51.081 858 Generated table #187@1: 19430 keys, 2144159 bytes
+2022/06/03-00:58:51.565 858 Generated table #188@1: 106509 keys, 2258886 bytes
+2022/06/03-00:58:51.699 858 Generated table #189@1: 103740 keys, 2256405 bytes
+2022/06/03-00:58:51.715 858 Generated table #190@1: 9984 keys, 222922 bytes
+2022/06/03-00:58:51.715 858 Compacted 1@1 + 7@2 files => 15669722 bytes
+2022/06/03-00:58:51.716 858 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/06/03-00:59:19.750 acc Level-0 table #192: started
+2022/06/03-00:59:19.780 acc Level-0 table #192: 1064107 bytes OK
+2022/06/03-00:59:19.783 acc Delete type=2 #173
+2022/06/03-00:59:19.783 acc Delete type=2 #174
+2022/06/03-00:59:19.783 acc Delete type=2 #175
+2022/06/03-00:59:19.783 acc Delete type=2 #176
+2022/06/03-00:59:19.783 acc Delete type=2 #177
+2022/06/03-00:59:19.783 acc Delete type=2 #178
+2022/06/03-00:59:19.783 acc Delete type=2 #179
+2022/06/03-00:59:19.783 acc Delete type=0 #181
+2022/06/03-00:59:19.783 acc Delete type=2 #182
+2022/06/03-00:59:21.243 3d20 Compacting 1@1 + 8@2 files
+2022/06/03-00:59:21.331 3d20 Generated table #193@1: 28768 keys, 2214698 bytes
+2022/06/03-00:59:21.399 3d20 Generated table #194@1: 4265 keys, 2158126 bytes
+2022/06/03-00:59:21.466 3d20 Generated table #195@1: 16520 keys, 2175396 bytes
+2022/06/03-00:59:21.546 3d20 Generated table #196@1: 31112 keys, 2236131 bytes
+2022/06/03-00:59:21.588 3d20 Generated table #197@1: 12904 keys, 2137677 bytes
+2022/06/03-00:59:21.805 3d20 Generated table #198@1: 107337 keys, 2258737 bytes
+2022/06/03-00:59:21.945 3d20 Generated table #199@1: 104219 keys, 2255275 bytes
+2022/06/03-00:59:21.984 3d20 Generated table #200@1: 30179 keys, 656482 bytes
+2022/06/03-00:59:21.984 3d20 Compacted 1@1 + 8@2 files => 16092522 bytes
+2022/06/03-00:59:21.986 3d20 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/06/03-00:59:21.986 3d20 Delete type=2 #183
+2022/06/03-00:59:21.986 3d20 Delete type=2 #184
+2022/06/03-00:59:21.986 3d20 Delete type=2 #185
+2022/06/03-00:59:21.986 3d20 Delete type=2 #186
+2022/06/03-00:59:21.986 3d20 Delete type=2 #187
+2022/06/03-00:59:21.986 3d20 Delete type=2 #188
+2022/06/03-00:59:21.986 3d20 Delete type=2 #189
+2022/06/03-00:59:21.986 3d20 Delete type=2 #190
+2022/06/03-00:59:21.986 3d20 Delete type=2 #192
+2022/06/03-00:59:48.040 6dc Level-0 table #202: started
+2022/06/03-00:59:48.075 6dc Level-0 table #202: 1102898 bytes OK
+2022/06/03-00:59:48.076 6dc Delete type=0 #191
+2022/06/03-00:59:49.078 6dc Compacting 1@1 + 8@2 files
+2022/06/03-00:59:49.178 6dc Generated table #203@1: 28890 keys, 2214100 bytes
+2022/06/03-00:59:49.214 6dc Generated table #204@1: 4261 keys, 2156254 bytes
+2022/06/03-00:59:49.282 6dc Generated table #205@1: 16449 keys, 2175326 bytes
+2022/06/03-00:59:49.370 6dc Generated table #206@1: 31046 keys, 2236309 bytes
+2022/06/03-00:59:49.415 6dc Generated table #207@1: 8156 keys, 2133136 bytes
+2022/06/03-00:59:49.537 6dc Generated table #208@1: 105061 keys, 2256804 bytes
+2022/06/03-00:59:49.872 6dc Generated table #209@1: 104277 keys, 2255592 bytes
+2022/06/03-00:59:49.952 6dc Generated table #210@1: 53948 keys, 1180407 bytes
+2022/06/03-00:59:49.952 6dc Compacted 1@1 + 8@2 files => 16607928 bytes
+2022/06/03-00:59:49.953 6dc compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/06/03-00:59:49.954 6dc Delete type=2 #193
+2022/06/03-00:59:49.954 6dc Delete type=2 #194
+2022/06/03-00:59:49.954 6dc Delete type=2 #195
+2022/06/03-00:59:49.954 6dc Delete type=2 #196
+2022/06/03-00:59:49.954 6dc Delete type=2 #197
+2022/06/03-00:59:49.954 6dc Delete type=2 #198
+2022/06/03-00:59:49.954 6dc Delete type=2 #199
+2022/06/03-00:59:49.954 6dc Delete type=2 #200
+2022/06/03-00:59:49.954 6dc Delete type=2 #202
